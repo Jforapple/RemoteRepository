@@ -1,0 +1,6 @@
+7:30 - Go to breakfast.
+8:00 - Go to class.
+10:00 - Continue with another class.
+12:00 - Go to lunch.
+15:00 - Continue with another class.
+17:00 - Go back dorm.
